@@ -1,4 +1,3 @@
-# Cybersecurity---Cybersecure-Campus
 # CyberSecure Campus: Enhancing Cybersecurity Infrastructure for Oakland University
 
 🛡️ **Graduate Project | MBA 542 – Project Management**  
